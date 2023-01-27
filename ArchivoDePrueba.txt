@@ -2,7 +2,7 @@ Archivo de prueba
 
 proyecto1
 
-curso git gitHub de platzi
+curso git gitHub de platzi. AGREGO ALGO NUEVO
 
 se agrega nueva linea
 
