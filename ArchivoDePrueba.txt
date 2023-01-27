@@ -11,3 +11,6 @@ tercer commit para mostrar un cambio
 agrego linea para sumar un cuarto commit.
 
 cambio para hacer un git reset HEAD uno
+
+cambio para hacer un git reset HEAD dos
+
