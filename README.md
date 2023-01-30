@@ -3,7 +3,7 @@
 > Un blog increíble para el curso de Git y GitHub de Platzi
 
 
-[========]
+------------
 
 ##Todo lo visto en este curso:
 - Contenido
@@ -13,4 +13,4 @@
 
 ***Y lo importante de los códigos fuete abiertos***
 
-[========]
+------------
