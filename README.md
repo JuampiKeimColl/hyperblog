@@ -15,4 +15,12 @@
 
 ------------
 
+<<<<<<< HEAD
 Creado por el asombroso cherry-pick
+=======
+Creado por el asombroso cherry-pick
+
+Incluye ejemplos en Windoews, Linux y Mac.
+
+disponibilidad para todas las edades
+>>>>>>> readme-mejorado
