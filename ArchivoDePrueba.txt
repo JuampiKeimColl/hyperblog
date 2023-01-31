@@ -15,7 +15,9 @@ cambio para hacer un git reset HEAD uno
 cambio para hacer un git reset HEAD uno
 cambio para hacer un git reset HEAD uno
 
-Marter 1
+Master 1
+
+Master 2
 
 cambio para hacer un git reset HEAD dos
 cambio para hacer un git reset HEAD dos
