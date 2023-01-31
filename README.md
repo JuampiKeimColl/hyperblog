@@ -16,3 +16,5 @@
 ------------
 
 Creado por el asombroso cherry-pick
+
+Incluye ejemplos en Windoews, Linux y Mac.
